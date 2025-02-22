@@ -29,7 +29,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  kamona_svg_to_font:
+  svg_to_font:
     path: ../
 
 dev_dependencies:
